@@ -14,3 +14,14 @@
 .titolo{
     font-size: 55px;
 }
+.autore{
+    font-size: 20px;
+    font-weight: bold;
+    color: #808080; 
+}
+.nome-autore{
+    color: #4EA0FF;
+}
+.data{
+    color: #808080;
+}
